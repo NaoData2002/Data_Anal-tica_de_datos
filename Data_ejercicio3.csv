@@ -1,0 +1,31 @@
+﻿ Paciente ; Edad ; Género   ; Ubicación ; Año  ; Historial Médico Preexistente          ; Resultados del Tratamiento Experimental    ; Efectos Secundarios                   
+ 1        ; 45   ; Masculino ; Ciudad A  ; 2022 ; Diabetes tipo 2, Hipertensión        ; Mejora del 20% después de 6 meses          ; Dolor de cabeza ocasional, Náuseas leves 
+ 2        ; 32   ; Femenino ; Ciudad B  ; 2022 ; Sin condiciones médicas preexistentes ; Mejora del 50% después de 3 meses          ; Sin efectos secundarios notables       
+ 3        ; 55   ; Masculino ; Ciudad A  ; 2022 ; Enfermedad cardíaca                  ; Sin mejoría significativa después de 6 meses ; Mareos frecuentes, Fatiga moderada    
+ 4        ; 28   ; Femenino ; Ciudad C  ; 2022 ; Asma                                  ; Mejora del 70% después de 4 meses          ; Sequedad de boca                      
+ 5        ; 60   ; Masculino ; Ciudad B  ; 2022 ; Sin condiciones médicas preexistentes ; Sin mejoría después de 6 meses             ; Náuseas severas                        
+ 6        ; 38   ; Femenino ; Ciudad A  ; 2021 ; Migraña, Tiroides hipoactiva         ; Mejora del 30% después de 5 meses          ; Dolor en las articulaciones            
+ 7        ; 47   ; Masculino ; Ciudad D  ; 2021 ; Diabetes tipo 2                       ; Mejora del 45% después de 4 meses          ; Dolor en el pecho                     
+ 8        ; 29   ; Femenino ; Ciudad C  ; 2021 ; Sin condiciones médicas preexistentes ; Sin mejoría después de 6 meses             ; Mareos ocasionales                    
+ 9        ; 50   ; Masculino ; Ciudad A  ; 2021 ; Presión arterial alta                 ; Mejora del 60% después de 3 meses          ; Náuseas leves                         
+ 10       ; 35   ; Femenino ; Ciudad B  ; 2021 ; Sin condiciones médicas preexistentes ; Sin mejoría después de 6 meses             ; Fatiga moderada                       
+ 11       ; 42   ; Masculino ; Ciudad C  ; 2020 ; Sin condiciones médicas preexistentes ; Mejora del 55% después de 4 meses          ; Dolor abdominal leve                  
+ 12       ; 31   ; Femenino ; Ciudad D  ; 2020 ; Sin condiciones médicas preexistentes ; Mejora del 40% después de 5 meses          ; Dolor de cabeza ocasional             
+ 13       ; 58   ; Masculino ; Ciudad A  ; 2020 ; Enfermedad cardíaca, Diabetes tipo 2 ; Sin mejoría después de 6 meses             ; Mareos frecuentes, Fatiga moderada    
+ 14       ; 27   ; Femenino ; Ciudad B  ; 2020 ; Sin condiciones médicas preexistentes ; Mejora del 65% después de 4 meses          ; Sequedad de boca                      
+ 15       ; 48   ; Masculino ; Ciudad A  ; 2020 ; Presión arterial alta                 ; Sin mejoría después de 6 meses             ; Dolor de estómago ocasional           
+ 16       ; 33   ; Femenino ; Ciudad C  ; 2019 ; Asma                                  ; Mejora del 25% después de 5 meses          ; Dolor en las articulaciones            
+ 17       ; 52   ; Masculino ; Ciudad B  ; 2019 ; Sin condiciones médicas preexistentes ; Mejora del 50% después de 4 meses          ; Dolor en el pecho                     
+ 18       ; 30   ; Femenino ; Ciudad D  ; 2019 ; Migraña, Tiroides hipoactiva         ; Sin mejoría después de 6 meses             ; Mareos ocasionales                    
+ 19       ; 44   ; Masculino ; Ciudad A  ; 2019 ; Sin condiciones médicas preexistentes ; Mejora del 70% después de 3 meses          ; Náuseas leves                         
+ 20       ; 36   ; Femenino ; Ciudad C  ; 2019 ; Sin condiciones médicas preexistentes ; Sin mejoría después de 6 meses             ; Fatiga moderada                       
+ 21       ; 59   ; Masculino ; Ciudad B  ; 2018 ; Diabetes tipo 2                       ; Mejora del 60% después de 4 meses          ; Dolor abdominal leve                  
+ 22       ; 26   ; Femenino ; Ciudad A  ; 2018 ; Sin condiciones médicas preexistentes ; Mejora del 35% después de 5 meses          ; Dolor de cabeza ocasional             
+ 23       ; 51   ; Masculino ; Ciudad D  ; 2018 ; Presión arterial alta                 ; Sin mejoría después de 6 meses             ; Mareos frecuentes, Fatiga moderada    
+ 24       ; 37   ; Femenino ; Ciudad C  ; 2018 ; Sin condiciones médicas preexistentes ; Mejora del 70% después de 4 meses          ; Sequedad de boca                      
+ 25       ; 46   ; Masculino ; Ciudad B  ; 2018 ; Asma                                  ; Sin mejoría después de 6 meses             ; Dolor de estómago ocasional           
+ 26       ; 32   ; Femenino ; Ciudad A  ; 2018 ; Sin condiciones médicas preexistentes ; Mejora del 20% después de 5 meses          ; Dolor en las articulaciones            
+ 27       ; 54   ; Masculino ; Ciudad C  ; 2018 ; Sin condiciones médicas preexistentes ; Mejora del 45% después de 4 meses          ; Dolor en el pecho                     
+ 28       ; 28   ; Femenino ; Ciudad D  ; 2018 ; Diabetes tipo 2, Hipertensión        ; Sin mejoría después de 6 meses             ; Mareos ocasionales                    
+ 29       ; 49   ; Masculino ; Ciudad A  ; 2018 ; Sin condiciones médicas preexistentes ; Mejora del 50% después de 3 meses          ; Náuseas leves                         
+ 30       ; 34   ; Femenino ; Ciudad B  ; 2018 ; Sin condiciones médicas preexistentes ; Sin mejoría después de 6 meses             ; Fatiga moderada                       
